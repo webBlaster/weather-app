@@ -1,0 +1,22 @@
+[
+  { "id": 1, "city": "Abuja", "country": "Nigeria" },
+  { "id": 2, "city": "Adelaide", "country": "Australia" },
+  { "id": 3, "city": "Addis Ababa", "country": "Ethopia" },
+  { "id": 4, "city": "Amman", "country": "Jordan" },
+  { "id": 5, "city": "Antalya", "country": "Turkey" },
+  { "id": 6, "city": "Baku", "country": "Azerbaijan" },
+  { "id": 7, "city": "Belmopan", "country": "Belize" },
+  { "id": 8, "city": "Cairo", "country": "Egypt" },
+  { "id": 9, "city": "Cape Town", "country": "South Africa" },
+  { "id": 10, "city": "Conakry", "country": "Guinea" },
+  { "id": 11, "city": "Galway", "country": "Ireland" },
+  { "id": 12, "city": "Geneva", "country": "Switzerland" },
+  { "id": 13, "city": "Gothenburg", "country": "Sweden" },
+  { "id": 14, "city": "Hannover", "country": "Germany" },
+  { "id": 15, "city": "Havana", "country": "Cuba" },
+  { "id": 16, "city": "Homs", "country": "Syria" },
+  { "id": 17, "city": "Hue", "country": "Vietnam" },
+  { "id": 18, "city": "Inverness", "country": "Scotland" },
+  { "id": 19, "city": "Isfahan", "country": "Iran" },
+  { "id": 20, "city": "Kampala", "country": "Uganda" }
+]
